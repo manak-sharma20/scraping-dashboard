@@ -1,0 +1,9 @@
+data/*.csv
+data/*.json
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.playwright/
+git_helper.py
+
